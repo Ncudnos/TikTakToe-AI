@@ -12,6 +12,6 @@ python3 game.py
 ```
 
 
-### Image 
+## Image 
 
 ![](./images/image.png)
