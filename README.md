@@ -14,4 +14,4 @@ python3 game.py
 
 ### Image 
 
-![](./images/image.jpg)
+![](./images/image.png)
